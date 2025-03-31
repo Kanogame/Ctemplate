@@ -1,0 +1,12 @@
+{
+    "explorer.confirmDelete": false,
+
+    "ccls.launch.command": "/nix/store/22y7bjxinj3g4d8rvfbirwwam2wmydjm-ccls-0.20241108/bin/ccls",
+    "mesonbuild.languageServerPath": "/nix/store/fbzx5chbfm10jnfnfb5agfjvjgwhx2ym-mesonlsp-4.3.7/bin/mesonlsp",
+    "mesonbuild.mesonPath": "/nix/store/5hrd7kcl2hlrp5avcmkpg95nqihnkd4p-meson-1.6.1/bin/meson",
+    
+    "mesonbuild.downloadLanguageServer": false,
+    "mesonbuild.buildFolder": "build",
+    "mesonbuild.formatting.enabled": true,
+    "ccls.misc.compilationDatabaseDirectory": "build/"
+}

@@ -1,0 +1,4 @@
+[wrap-git]
+url = https://github.com/kanogame/klib.git
+revision = HEAD
+depth = 1
